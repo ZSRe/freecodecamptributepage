@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to right, gray , gold);
+    font-family: helvetica;
+  }
+  
+  h1, h2 {
+    
+    text-align: center;
+  }
+  
+  #img-caption {
+    
+    text-align: center;
+  }
+  
+  #tribute-info {
+    
+    font-size: 24px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto auto;  
+  }
+  
+  #possible-ids {
+    background: linear-gradient(to bottom right, white, green);
+  }
